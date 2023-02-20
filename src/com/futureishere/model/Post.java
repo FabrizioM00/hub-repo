@@ -2,6 +2,7 @@ package com.futureishere.model;
 
 public class Post {
 	
+	//titolo
 	private String title;
 	private String description;
 	
