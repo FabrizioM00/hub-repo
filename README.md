@@ -1,5 +1,3 @@
 # hub-repo
 
-this is a test
-
-//test3
+a repo for exercises
