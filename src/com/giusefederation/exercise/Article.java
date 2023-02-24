@@ -16,7 +16,6 @@ public class Article {
 		this.author = author;
 	}
 	
-	
 	public int getId() {
 		return id;
 	}
